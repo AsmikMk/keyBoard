@@ -38,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/keyBoard/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret lean-forward="true" />
+              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -68,8 +68,8 @@
         <option value="$PROJECT_DIR$/css.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/script.js" />
-        <option value="$PROJECT_DIR$/keyBoard/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/keyBoard/.gitignore" />
       </list>
     </option>
   </component>
@@ -145,7 +145,7 @@
       <workItem from="1560535374316" duration="793000" />
       <workItem from="1560538073985" duration="1769000" />
       <workItem from="1560539891538" duration="1760000" />
-      <workItem from="1560541704665" duration="907000" />
+      <workItem from="1560541704665" duration="1236000" />
     </task>
     <servers />
   </component>
