@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7412e760-b323-4f97-a0ab-b73cbbabb84b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/keyBoard/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/keyBoard/css.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/keyBoard/keyBoard.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/keyBoard/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,10 +33,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/keyBoard/.gitignore">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -139,7 +136,7 @@
       <workItem from="1560535374316" duration="793000" />
       <workItem from="1560538073985" duration="1769000" />
       <workItem from="1560539891538" duration="1760000" />
-      <workItem from="1560541704665" duration="474000" />
+      <workItem from="1560541704665" duration="719000" />
     </task>
     <servers />
   </component>
